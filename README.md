@@ -117,6 +117,7 @@ Sadia@123
 
 > Front-End Developer | Back-End Developer | React JS Developer | Next JS Developer | Node JS Developer | JavaScript Programmer
 
-- Hasibul Islam - `Linkedin` [hasibulislam999](https://www.linkedin.com/in/hasibulislam999)
-- Hasibul Islam - `Twitter` [hasibulislam999](https://twitter.com/hasibulislam999)
-- Hasibul Islam - `WhatsApp` [+8801906315901](https://wa.me/01906315901)
+- Hasibul Islam
+  - `Linkedin` [hasibulislam999](https://www.linkedin.com/in/hasibulislam999)
+  - `Twitter` [hasibulislam999](https://twitter.com/hasibulislam999)
+  - `WhatsApp` [+8801906315901](https://wa.me/01906315901)
