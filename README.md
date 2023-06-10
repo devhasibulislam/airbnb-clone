@@ -66,7 +66,9 @@ git clone https://github.com/hasibulislam999/airbnb-clone.git
 
 ```bash
 npm i
+
 //or
+
 npm i -f
 ```
 
