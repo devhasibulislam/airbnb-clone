@@ -46,12 +46,12 @@
 | typescript                | 5.0.2           |
 | world-countries           | ^4.0.0          |
 | zustand                   | ^4.3.8          |
-| @types/bcrypt             | ^5.0.0"         |
-| @types/leaflet            | ^1.9.3"         |
-| @types/react-date-range   | ^1.4.4"         |
-| autoprefixer              | ^10.4.14"       |
-| postcss                   | ^8.4.24"        |
-| prisma                    | ^4.15.0"        |
+| @types/bcrypt             | ^5.0.0          |
+| @types/leaflet            | ^1.9.3          |
+| @types/react-date-range   | ^1.4.4          |
+| autoprefixer              | ^10.4.14        |
+| postcss                   | ^8.4.24         |
+| prisma                    | ^4.15.0         |
 | tailwindcss               | ^3.3.2          |
 
 ## ⌨️ Development
